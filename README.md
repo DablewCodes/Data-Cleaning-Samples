@@ -1,2 +1,7 @@
 # Excel-Data-Cleaning-Samples
-A repository where I keep all of my Excel data cleaning samples/portfolio items
+
+All of the files have been collected randomly from the internet and contain non-sensitive data.
+
+Each file has seperate sheets for the dirty and clean data. 
+
+Feel free to experiment on them on your own as well.
