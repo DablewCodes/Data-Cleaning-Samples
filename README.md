@@ -1,6 +1,6 @@
-# Excel-Data-Cleaning-Samples
+# Data-Cleaning-Samples
 
-All of the files have been collected randomly from the internet and contain non-sensitive data.
+All of the files/Datasets have been collected randomly from the internet and contain non-sensitive data.
 
 Each file has seperate sheets for the dirty and clean data. 
 
